@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Article 1",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium dicta veniam facere provident earum optio non iste tempore minima distinctio corporis adipisci nihil culpa, sit saepe repellat accusamus est molestiae!",
+        "author": "Peter"
+
+    },
+    {
+        "id": 2,
+        "title": "Article 2",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium dicta veniam facere provident earum optio non iste tempore minima distinctio corporis adipisci nihil culpa, sit saepe repellat accusamus est molestiae!",
+        "author": "Lisa"
+
+    },
+    {
+        "id": 3,
+        "title": "Article 3",
+        "descr": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium dicta veniam facere provident earum optio non iste tempore minima distinctio corporis adipisci nihil culpa, sit saepe repellat accusamus est molestiae!",
+        "author": "Paul"
+
+    }
+]
